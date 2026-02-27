@@ -1,5 +1,4 @@
 asgiref==3.11.1
-#version
 Django==5.0
 iniconfig==2.3.0
 packaging==26.0
@@ -8,4 +7,3 @@ psycopg2-binary==2.9.11
 Pygments==2.19.2
 pytest==9.0.2
 sqlparse==0.5.5
-
